@@ -1,2 +1,2 @@
 # PN532
-library for pn532
+library za ćip pn532
